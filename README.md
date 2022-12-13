@@ -8,6 +8,7 @@
 ![Views Conunter](https://komarev.com/ghpvc/?username=ariel96carp&color=green)
 
 ## 👨‍💻 About Me
+- 🇦🇷 I'm from Argentina
 - 🔭 I’m currently working on **Backend Technologies**
 - 🌱 I’m currently learning **Express** and **Python**
 - 💬 Ask me about **JavaScript**, **React**, **CSS**
