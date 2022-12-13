@@ -1,5 +1,5 @@
 <img src="https://ar.catalyst.concentrix.com/wp-content/uploads/2019/10/front-end-developer-1609x555.png"></img>
-<h3>Hi 👋, I'm Dante Carrasco</h1>
+<h3 align="center">Hi 👋, I'm Dante Carrasco</h1>
 <! -- ### Hi there 👋 -->
 
 <!--
