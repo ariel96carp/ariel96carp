@@ -1,5 +1,8 @@
 ![Profile Banner](https://ar.catalyst.concentrix.com/wp-content/uploads/2019/10/front-end-developer-1609x555.png)
 <h3 align="center">Hi 👋, I'm Dante Carrasco</h1>
+
+---
+
 <h3 align="center">A passionate web developer in constant learning</h3>
 
 - 🔭 I’m currently working on **Backend Technologies**
