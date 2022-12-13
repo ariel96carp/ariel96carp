@@ -1,6 +1,6 @@
 <img src="https://ar.catalyst.concentrix.com/wp-content/uploads/2019/10/front-end-developer-1609x555.png"></img>
 <h3 align="center">Hi 👋, I'm Dante Carrasco</h1>
-<! -- ### Hi there 👋 -->
+<h3 align="center">A passionate web developer in constant learning</h3>
 
 <!--
 **ariel96carp/ariel96carp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
