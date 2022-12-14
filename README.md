@@ -76,6 +76,6 @@
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ariel96carp&show_icons=true&locale=en&layout=compact" alt="ariel96carp" />
-<img src="https://github-readme-stats.vercel.app/api?username=ariel96carp&show_icons=true&theme=dark" alt="ariel96carp" />
+<img src="https://github-readme-stats.vercel.app/api?username=ariel96carp&show_icons=true&theme=transparent" alt="ariel96carp" />
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ariel96carp&theme=dark)](https://git.io/streak-stats)
