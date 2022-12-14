@@ -1,5 +1,5 @@
 ![Profile Banner](https://ar.catalyst.concentrix.com/wp-content/uploads/2019/10/front-end-developer-1609x555.png)
-<h2 align="center">Hi 👋, I'm Dante Carrasco</h2>
+<h1 align="center">Hi 👋, I'm Dante Carrasco</h1>
 <h3 align="center">A passionate web developer in constant learning</h3>
 
 ![Views Conunter](https://komarev.com/ghpvc/?username=ariel96carp&color=green)
@@ -24,6 +24,9 @@
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="GIT" width="40" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VisualCode" width="40" />
   </a>
   <a href="https://www.javascript.com/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
