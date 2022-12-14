@@ -2,17 +2,16 @@
 <h1 align="center">Hi 👋, I'm Dante Carrasco</h1>
 <h3 align="center">A passionate web developer in constant learning</h3>
 
-![Views Conunter](https://komarev.com/ghpvc/?username=ariel96carp&color=green)
+![Views Counter](https://komarev.com/ghpvc/?username=ariel96carp&color=green)
 
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" />
 
 ## 👨‍💻 About Me
-- 🇦🇷 I'm from Argentina
 - 🔭 I’m currently working on **Backend Technologies**
 - 🌱 I’m currently learning **Express** and **Python**
 - 💬 Ask me about **JavaScript**, **React**, **CSS**
 - 📫 How to reach me: [arielcarp1996@gmail.com](arielcarp1996@gmail.com)
-- ⚡ Fun fact: **I love black humor 😁**
+- ⚡ Fun fact: **9/12/18 🐔⚽😁**
 
 ### Contact with me:
 <a href="https://www.linkedin.com/in/dante-carrasco-1aaa9419b/" target="_blank">
@@ -21,6 +20,9 @@
 
 ### Language and Tools:
 <p>
+  <a href="https://www.markdownguide.org/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="Markdown" width="40" />
+  </a>
   <a href="https://eslint.org/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" alt="ESLint" width="40" />
   </a>
