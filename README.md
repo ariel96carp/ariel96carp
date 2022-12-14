@@ -4,6 +4,8 @@
 
 ![Views Conunter](https://komarev.com/ghpvc/?username=ariel96carp&color=green)
 
+<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" />
+
 ## 👨‍💻 About Me
 - 🇦🇷 I'm from Argentina
 - 🔭 I’m currently working on **Backend Technologies**
