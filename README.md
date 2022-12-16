@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on **Backend Technologies**
 - 🌱 I’m currently learning **Express** and **Python**
 - 💬 Ask me about **JavaScript**, **React**, **CSS**
-- 📫 How to reach me: [arielcarp1996@gmail.com](arielcarp1996@gmail.com)
+- 📫 How to reach me: [arielcarp1996@gmail.com](mailto:arielcarp1996@gmail.com)
 - ⚡ Fun fact: **9/12/18 🐔⚽😁**
 
 ### Contact with me:
