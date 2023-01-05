@@ -7,8 +7,8 @@
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" />
 
 ## 👨‍💻 About Me
-- 🔭 I’m currently working on **Backend Technologies**
-- 🌱 I’m currently learning **Express** and **Python**
+- 🔭 I’m currently working on **Distrisuper**
+- 🌱 I’m currently learning Backend Technologies, such as **Express** and **Python**
 - 💬 Ask me about **JavaScript**, **React**, **CSS**
 - 📫 How to reach me: [arielcarp1996@gmail.com](mailto:arielcarp1996@gmail.com)
 - ⚡ Fun fact: **9/12/18 🐔⚽😁**
