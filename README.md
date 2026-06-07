@@ -71,8 +71,4 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 </span>
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=ariel96carp)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=ariel96carp&show_icons=true&locale=en&layout=compact" alt="ariel96carp" />
-<img src="https://github-readme-stats.vercel.app/api?username=ariel96carp&show_icons=true&theme=transparent" alt="ariel96carp" />
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ariel96carp&theme=dark)](https://git.io/streak-stats)
