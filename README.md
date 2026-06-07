@@ -13,11 +13,6 @@ Currently, I'm expanding my skill set into Mobile Development while continuing t
 
 📫 Reach me at: arielcarp1996@gmail.com
 
-### Contact with me:
-<a href="https://www.linkedin.com/in/dante-carrasco-1aaa9419b/" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="40" />
-</a>
-
 ## My Skills Include
 
 <h4> Languages </h4>
