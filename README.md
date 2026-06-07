@@ -71,4 +71,13 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 </span>
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/AVS1508">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?  username=ariel96carp&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ariel96carp&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ariel96carp&theme=dark)](https://git.io/streak-stats)
