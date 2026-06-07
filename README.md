@@ -76,7 +76,7 @@ Currently, I'm expanding my skill set into Mobile Development while continuing t
 
 <p align="center">
   <a href="https://github.com/ariel96carp">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ariel96carp&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-igv3exgv3-ariel96carps-projects.vercel.app/api?username=ariel96carp&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/ariel96carp">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ariel96carp&theme=algolia&hide_border=true"/>
