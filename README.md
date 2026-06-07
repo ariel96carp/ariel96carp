@@ -6,11 +6,12 @@
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" />
 
 ## 👨‍💻 About Me
-- 🔭 I’m currently working on **Distrisuper**
-- 🌱 I’m currently learning Backend Technologies, such as **Express** and **Python**
-- 💬 Ask me about **JavaScript**, **React**, **CSS**
-- 📫 How to reach me: [arielcarp1996@gmail.com](mailto:arielcarp1996@gmail.com)
-- ⚡ Fun fact: **9/12/18 🐔⚽😁**
+
+Full Stack Developer with 4 years of experience building business applications and internal systems. During my time at Distrisuper, I worked across the entire stack, developing frontend interfaces, backend services, APIs, and database solutions.
+
+Currently, I'm expanding my skill set into Mobile Development while continuing to deepen my expertise in JavaScript and modern web technologies.
+
+📫 Reach me at: arielcarp1996@gmail.com
 
 ### Contact with me:
 <a href="https://www.linkedin.com/in/dante-carrasco-1aaa9419b/" target="_blank">
