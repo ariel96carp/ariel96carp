@@ -82,7 +82,3 @@ Currently, I'm expanding my skill set into Mobile Development while continuing t
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ariel96carp&theme=algolia&hide_border=true"/>
   </a>
 </p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ariel96carp&theme=dark&hide_border=true"/>
-</p>
