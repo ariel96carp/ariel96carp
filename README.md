@@ -71,6 +71,12 @@ Currently, I'm expanding my skill set into Mobile Development while continuing t
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 </span>
 
+## Check out my Social Media
+
+<a href="https://www.linkedin.com/in/dante-carrasco-1aaa9419b/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
