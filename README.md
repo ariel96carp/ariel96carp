@@ -72,7 +72,7 @@ Currently, I'm expanding my skill set into Mobile Development while continuing t
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-### ⚙️ &nbsp;GitHub Analytics
+### Github stats:
 
 <p align="center">
   <a href="https://github.com/ariel96carp">
