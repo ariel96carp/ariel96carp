@@ -7,11 +7,24 @@
 
 ## 👨‍💻 About Me
 
-Full Stack Developer with 4 years of experience building business applications and internal systems. During my time at Distrisuper, I worked across the entire stack, developing frontend interfaces, backend services, APIs, and database solutions.
+Full Stack Developer with 4 years of professional experience building business applications, internal systems, and APIs.
 
-Currently, I'm expanding my skill set into Mobile Development while continuing to deepen my expertise in JavaScript and modern web technologies.
+Experienced in developing frontend interfaces, backend services, database solutions, and business-critical features across the entire software development lifecycle.
+
+Currently, I'm focused on modern web technologies while expanding my skills into Mobile Development.
 
 📫 Reach me at: arielcarp1996@gmail.com
+
+## 💼 Professional Experience
+
+### Full Stack Developer — Distrisuper
+📅 2022 – 2026
+
+- Developed and maintained internal business applications.
+- Built REST APIs and backend services using Node.js.
+- Designed and optimized SQL databases.
+- Implemented frontend interfaces with React and modern JavaScript.
+- Collaborated on business-critical operational systems.
 
 ## My Skills Include
 
@@ -78,6 +91,11 @@ Currently, I'm expanding my skill set into Mobile Development while continuing t
   <a href="https://github.com/ariel96carp">
     <img height="180em" src="https://github-readme-stats-chi-bay-56.vercel.app/api?username=ariel96carp&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
+  <a href="https://github.com/ariel96carp">
+    <img height="180em" src="https://github-readme-stats-chi-bay-56.vercel.app/api/top-langs/?username=ariel96carp&layout=compact&theme=algolia"/>
+  </a>
+</p>
+<p align="center">
   <a href="https://github.com/ariel96carp">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ariel96carp&theme=algolia&hide_border=true"/>
   </a>
